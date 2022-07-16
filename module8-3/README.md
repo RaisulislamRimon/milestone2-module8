@@ -1,5 +1,5 @@
 # 8-3 Create Login Form And Flexible Nav Using Flexbox
 
 ### google search: 
-#### flexbox ? 
+#### important: display: flex, align-items: center, justify-content: center
 
