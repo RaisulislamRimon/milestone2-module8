@@ -20,3 +20,10 @@ h1 {
 .split img {
   width: 100%;
 }
+@media screen and (max-width: 576px) {
+  .container-two  {
+    flex-direction: column;
+  }
+}
+  
+}
