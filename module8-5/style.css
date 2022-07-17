@@ -3,6 +3,7 @@
   grid-template-columns: repeat(7, 1fr);
   row-gap: 20px;
   column-gap: 10px;
+  grid-template-rows: 30px repeat(5, 75px);
 }
 .date, .day{
   background-color: lightblue;
