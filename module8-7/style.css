@@ -10,3 +10,13 @@ h1 {
 .tiger img {
   width: 100%;
 }
+.container-two {
+  display: flex;
+}
+
+.container-two .split {
+  width: 50%;
+}
+.split img {
+  width: 100%;
+}
