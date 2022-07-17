@@ -2,5 +2,5 @@
 
 
 ### google search: 
-#### 
+#### css mediaquery, bootstrap breakpoint
 
